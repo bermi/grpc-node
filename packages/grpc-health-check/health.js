@@ -18,7 +18,7 @@
 
 'use strict';
 
-var grpc = require('grpc');
+var grpc = require('@grpc/grpc-js');
 
 var _get = require('lodash.get');
 var _clone = require('lodash.clone')
